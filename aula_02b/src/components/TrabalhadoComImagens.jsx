@@ -1,11 +1,11 @@
 import React from 'react'
-import Coldplay from '../assets/Coldplay.jpeg'
+import Coldplay from '../assets/one piece.jpg'
 
 
 const TrabalhadoComImagens = () => {
   return (
     <div>
-        <img src='The_Killers.jpeg' alt='The Killers'/>
+        <img src='public\zoro_one_piece.jpg' alt='The Killers'/>
         <img src={Coldplay} alt='Coldplay'/>
     </div>
   )
