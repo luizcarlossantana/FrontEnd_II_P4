@@ -1,8 +1,8 @@
-var nome = "Thiago";
+var nome = "luiz";
 const cpf = "058.945.024-70";
 
 function nomeCompleto() {
-    let sobreNome = "Coutinho";
+    let sobreNome = "Santana";
 
     console.log(nome);
     console.log(sobreNome);
